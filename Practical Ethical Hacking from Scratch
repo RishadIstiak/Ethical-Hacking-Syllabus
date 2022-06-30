@@ -1,6 +1,6 @@
 #Practical Ethical Hacking from Scratch
 
-Part-1: Introduction to Cyber Security & Ethical Hacking
+##Part-1: Introduction to Cyber Security & Ethical Hacking
 Asset
 Vulnerability
 Threat
@@ -13,13 +13,13 @@ White Box
 Gray Box
 CIA Triad
 
-Part-2: Lab Setup
+##Part-2: Lab Setup
 Installing & Configuring Vmware/Virtualbox
 Installing & Configuring Kali Linux/ Parrot
 Installing & Configuring Metasploitable2
 Installing & Configuring OWASP Broken Web Application
 
-Part-3: Linux Essentials
+##Part-3: Linux Essentials
 Major Linux Operating Systems
 File Structure of Linux
 Common Linux Commands
@@ -27,11 +27,11 @@ File Search
 File Permission 
 Operators etc
 
-Part-4: Programming
+##Part-4: Programming
 Python
 
 
-Part-5: Networking
+##Part-5: Networking
 OSI Model
 TCP/IP Model
 IP Address
@@ -43,22 +43,22 @@ Firewall
 DNS etc
 
 
-Part-6: Ultimate Anonymity
+##Part-6: Ultimate Anonymity
 TOR
 Secured OS
 
-Part-7: Information Gathering/Reconnaissance
+##Part-7: Information Gathering/Reconnaissance
 Active & Passive Reconnaissance
 Identifying Whois Information
 Identifying Web Application Technologies
 Subdomain Enumeration
 Google Hacking
 
-Part-8: Scanning & Enumeration
+##Part-8: Scanning & Enumeration
 
-Part-9: Vulnerability Assessment 
+##Part-9: Vulnerability Assessment 
 
-Part-10: Web Application Technologies
+##Part-10: Web Application Technologies
 HTTP Protocol
 HTTP Requests
 HTTP Responses
@@ -78,17 +78,18 @@ JSON
 Session
 Encoding
 
-Part-11: Network Hacking
+##Part-11: Network Hacking
 
 
-Part-12: Web Hacking
+##Part-12: Web Hacking
 
 
-Part-13: CTF Practice
+##Part-13: CTF Practice
 TryHackMe
 Overthewire
 PicoCTF
-PArt-14: Report Writing
+
+##Part-14: Report Writing
 
 
 
